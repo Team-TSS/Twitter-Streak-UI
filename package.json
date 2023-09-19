@@ -1,0 +1,16 @@
+{
+	"name": "twitter-streak",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"dev": "five-server"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"nodemon": "^3.0.1",
+		"simple-http-server": "^0.1.8"
+	}
+}
